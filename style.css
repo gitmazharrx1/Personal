@@ -46,3 +46,95 @@ nav a:nth-child(4){
 nav a:nth-child(5){
 	width: 120px;
 }
+
+.textsection{
+    width: 40%;
+    height: 50px;
+    float: left;
+    text-align: justify;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.textsection a{
+    font-size: 40px;
+}
+.txt1{
+    font-weight: 800;
+}
+.link{
+    text-decoration: none;
+    background: #34495e;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: aliceblue;
+    box-shadow: 10px 10px;
+    
+}
+.imagesection{
+    width: 40%;
+    height: 80px;
+    float: left;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+img{
+    width: 50%;
+}
+.section1{
+    height: 350px;
+}
+p{
+    text-align: justify;
+}
+
+.section2{
+    margin-top: 400px;
+    text-align: center;
+    font-weight: 800;
+    font-size: 40px;
+    width: 100%;
+    height: 600px;
+    background: #f4f4f4;
+}
+.s9{
+    width: 30%;
+    float: left;
+    text-align: justify;
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left: 33px;
+    background-color: white;
+    box-shadow: 10px 10px 10px gray;
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+.section3{
+    
+    height: 300px;
+    width: 100%;
+    background-image: url("image/Group_33094_1.png");
+    background-size: 70%;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.footerw{
+    width: 40%;
+    float: left;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+.footerw1{
+    width: 40%;
+    float: left;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.footerw2{
+    text-align: center;
+    height: 200PX;
+}
+.footericon{
+    width: 30%;
+    margin-left: 470px;
+}
